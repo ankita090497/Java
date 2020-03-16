@@ -3,7 +3,7 @@ package com.pojo;
 public class Employee {
 	private String Name;
 	private String username;
-	
+	private String emailid ;
 	public String getName() {
 		return Name;
 	}
