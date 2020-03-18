@@ -8,7 +8,7 @@ public class Pattern8 {
 		System.out.println("Enter Number ");
 		int n = scanner.nextInt();
 		int i,j;
-		for(i=n;i>=1;i++) {
+		for(i=n;i>=1;i--) {
 			
 			for(j=i;j<n;j++) {
 				System.out.print("  ");
